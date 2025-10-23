@@ -9,18 +9,18 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Invoice Dragon</title>
-        <title>Invoice Dragon - Create PDF Invoices and Receipts for Free</title>
-        <meta property="og:title" content="Invoice Dragon - Create PDF Invoices and Receipts for Free" />
+        <title>Inv Sena</title>
+        <title>Inv Sena - Create PDF Invoices and Receipts for Free</title>
+        <meta property="og:title" content="Inv Sena - Create PDF Invoices and Receipts for Free" />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="http://invoicedragon.com/" />
+        <meta property="og:url" content="https://inv.senacodes.io" />
         <meta property="og:image" content="/assets/icon.png" /> 
-        <meta property="og:description" content="Create professional Invoices and Receipts effortlessly with Invoice Dragon and download as PDF for easy sharing and record-keeping. And it's all for free!" />
+        <meta property="og:description" content="Create professional Invoices and Receipts effortlessly with Inv Sena and download as PDF for easy sharing and record-keeping. And it's all for free!" />
         <meta property="og:locale" content="en_US" />
-        <meta property="og:site_name" content="Invoice Dragon" />
+        <meta property="og:site_name" content="Inv Sena" />
         <meta name="author" content="Sena Codes" />
-        <meta name="description" content="Create professional Invoices and Receipts effortlessly with Invoice Dragon and download as PDF for easy sharing and record-keeping. And it's all for free!" />
-        <meta name="application-name" content="Invoice Dragon" />
+        <meta name="description" content="Create professional Invoices and Receipts effortlessly with Inv Sena and download as PDF for easy sharing and record-keeping. And it's all for free!" />
+        <meta name="application-name" content="Inv Sena" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
