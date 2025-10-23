@@ -30,3 +30,10 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# ignore deploy artifacts (don't commit build outputs or node_modules from the deploy folder)
+deploy/node_modules/
+deploy/.next/
+deploy/package-lock.json
+deploy/yarn.lock
+deploy/dist/
