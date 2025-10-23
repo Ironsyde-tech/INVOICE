@@ -1,0 +1,20 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/api/hello": "pages/api/hello.js",
+  "/": "pages/index.js",
+  "/templates": "pages/templates.js",
+  "/_error": "pages/_error.js",
+  "/en/404": "pages/en/404.html",
+  "/fr/404": "pages/fr/404.html",
+  "/es/404": "pages/es/404.html",
+  "/nl/404": "pages/nl/404.html",
+  "/de/404": "pages/de/404.html",
+  "/pt/404": "pages/pt/404.html",
+  "/en/500": "pages/en/500.html",
+  "/fr/500": "pages/fr/500.html",
+  "/es/500": "pages/es/500.html",
+  "/nl/500": "pages/nl/500.html",
+  "/de/500": "pages/de/500.html",
+  "/pt/500": "pages/pt/500.html"
+}
