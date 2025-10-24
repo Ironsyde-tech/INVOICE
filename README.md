@@ -1,4 +1,4 @@
-## Invoice Dragon
+## Inv Sena
 
 > Generate invoices and receipts simply by filling a form.
 
